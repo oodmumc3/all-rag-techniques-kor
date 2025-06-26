@@ -25,3 +25,4 @@ build/
 .idea/
 *.sublime-workspace
 .ipynb_checkpoints/
+venv/
